@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Catapi</string>
+
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="empty">There is not a single cat</string>
+    <string name="empty_favorites">There is not a single favorite cat</string>
+
+    <string name="permission_write_denied">Storage permissions were denied. Please consider granting it in order to access the storage!</string>
+    <string name="permission_storage_never_ask_again">Storage permissions were denied with never ask again.</string>
+    <string name="image_has_been_saved">The image has been saved.</string>
+</resources>

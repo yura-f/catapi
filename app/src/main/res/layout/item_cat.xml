@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="240dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:src="@drawable/bg_placeholder_error"/>
+
+        <View
+            android:id="@+id/gradientView"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:background="@drawable/bg_white_gradient"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:visibility="gone"
+            tools:visibility="visible"/>
+
+        <ImageButton
+            android:id="@+id/saveBtn"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/likeBtn"
+            android:layout_marginBottom="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/ic_download"
+            android:visibility="gone"
+            tools:visibility="visible"/>
+
+        <CheckBox
+            android:id="@+id/likeBtn"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_margin="8dp"
+            android:background="@drawable/favorite_button_selector"
+            android:button="@null"
+            android:checked="false"
+            android:visibility="gone"
+            tools:visibility="visible"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
