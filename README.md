@@ -1,6 +1,8 @@
 # catapi
 The MVP app which work with Catapi(https://thecatapi.com/)
 
+![Screenshot](https://cdn2.thecatapi.com/logos/thecatapi_256xW.png)
+
 **Used software stack:**
 
  - Kotlin;
