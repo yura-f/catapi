@@ -13,3 +13,8 @@ The MVP app which work with Catapi(https://thecatapi.com/)
  - Glide;
  - Moxy; (https://github.com/Arello-Mobile/Moxy)
  - Cicerone; (https://github.com/terrakok/Cicerone)
+
+**Features:**
+- infinity scroll;
+- add photo to local favourites;
+- possibility save any photo.
