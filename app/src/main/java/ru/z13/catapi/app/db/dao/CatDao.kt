@@ -9,7 +9,7 @@ import io.reactivex.Single
 import ru.z13.catapi.app.db.enteties.CatEntity
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Dao
 interface CatDao {
