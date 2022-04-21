@@ -12,7 +12,7 @@ import javax.inject.Singleton
 
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Singleton
 @Component(modules = [
