@@ -9,7 +9,7 @@ import javax.inject.Singleton
 
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Module
 class AppModule(@NotNull private val app: Application) {
