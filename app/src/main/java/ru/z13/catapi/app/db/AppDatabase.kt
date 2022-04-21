@@ -12,7 +12,7 @@ import ru.z13.catapi.app.db.enteties.CatFavoriteEntity
 
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Database(
     entities = [CatEntity::class,
