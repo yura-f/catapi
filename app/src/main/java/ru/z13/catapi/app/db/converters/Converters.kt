@@ -6,7 +6,7 @@ import com.google.gson.reflect.TypeToken
 import ru.z13.catapi.app.db.enteties.BreedEntity
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class Converters {
     private val gson:Gson = Gson()
