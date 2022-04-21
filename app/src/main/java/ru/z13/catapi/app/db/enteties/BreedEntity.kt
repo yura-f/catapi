@@ -4,7 +4,7 @@ import androidx.room.ColumnInfo
 import androidx.room.PrimaryKey
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 data class BreedEntity(@PrimaryKey(autoGenerate = true) val id: Int = 0,
                        @ColumnInfo(name = "label_id") val labelId: String,
