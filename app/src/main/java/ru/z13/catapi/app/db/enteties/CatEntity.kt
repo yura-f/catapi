@@ -5,7 +5,7 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Entity(tableName = "cats")
 data class CatEntity(@PrimaryKey(autoGenerate = true) val id: Int = 0,
