@@ -1,7 +1,7 @@
 package ru.z13.catapi.app.data
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 data class Data<T>(
     val value: T,
