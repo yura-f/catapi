@@ -7,7 +7,7 @@ import javax.inject.Inject
 import javax.inject.Singleton
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Singleton
 class SchedulersFacade @Inject constructor() {

@@ -6,7 +6,7 @@ import retrofit2.http.Query
 import ru.z13.catapi.app.network.dto.Cat
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 interface Api {
     @GET("images/search")

@@ -9,7 +9,7 @@ import ru.z13.catapi.app.di.modules.NetworkModule
 
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class App: Application() {
 

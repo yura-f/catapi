@@ -8,7 +8,7 @@ import ru.z13.catapi.app.db.AppDatabase
 import javax.inject.Singleton
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Module
 class DataSourceModule {

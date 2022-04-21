@@ -4,7 +4,7 @@ import android.os.Bundle
 import moxy.MvpAppCompatActivity
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 abstract class BaseActivity: MvpAppCompatActivity() {
     abstract val layoutRes: Int

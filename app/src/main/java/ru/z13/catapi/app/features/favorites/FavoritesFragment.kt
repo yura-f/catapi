@@ -25,7 +25,7 @@ import javax.inject.Inject
 import javax.inject.Provider
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 
 @AddToEndSingle

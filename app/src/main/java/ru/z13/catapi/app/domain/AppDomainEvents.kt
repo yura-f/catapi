@@ -7,7 +7,7 @@ import io.reactivex.subjects.PublishSubject
 
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class AppDomainEvents : DomainEvents {
     private val appEventSubject: PublishSubject<DomainEvents.AppEvent> = PublishSubject.create()

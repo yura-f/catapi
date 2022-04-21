@@ -5,7 +5,7 @@ import ru.z13.catapi.app.models.BreedData
 import ru.z13.catapi.app.network.dto.Breed
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 
 fun List<Breed>.toEntity() = map { it.toEntity() }

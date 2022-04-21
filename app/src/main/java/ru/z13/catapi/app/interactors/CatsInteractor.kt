@@ -12,7 +12,7 @@ import ru.z13.catapi.app.repositories.CatRepository
 import javax.inject.Inject
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class CatsInteractor @Inject constructor(private val wineryRepository: CatRepository) {
 

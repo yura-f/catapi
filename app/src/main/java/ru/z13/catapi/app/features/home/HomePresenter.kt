@@ -13,7 +13,7 @@ import javax.inject.Inject
 
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class HomePresenter @Inject constructor(private val schedulersFacade: SchedulersFacade,
                                         private val interactor: CatsInteractor): BasePresenter<HomeView>() {

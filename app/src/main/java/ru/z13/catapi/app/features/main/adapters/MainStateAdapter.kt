@@ -6,7 +6,7 @@ import ru.z13.catapi.app.features.favorites.FavoritesFragment
 import ru.z13.catapi.app.features.home.HomeFragment
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class MainStateAdapter(fragment: Fragment): FragmentStateAdapter(fragment) {
     override fun getItemCount(): Int {

@@ -5,7 +5,7 @@ import ru.z13.catapi.app.features.base.BasePresenter
 import javax.inject.Inject
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class MainActivityPresenter @Inject constructor(): BasePresenter<MainActivityView>() {
 

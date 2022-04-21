@@ -13,7 +13,7 @@ import java.util.*
 /**
  * https://github.com/mikepenz/FastAdapter/blob/a0d22ee7a483cbbda46038e04f387f81971666d5/library/src/main/java/com/mikepenz/fastadapter/commons/utils/FastAdapterDiffUtil.java
  *
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 
 object YFastAdapterDiffUtil {

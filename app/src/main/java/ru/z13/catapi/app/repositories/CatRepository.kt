@@ -15,7 +15,7 @@ import ru.z13.catapi.app.network.Api
 import javax.inject.Inject
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 
 interface CatRepository{

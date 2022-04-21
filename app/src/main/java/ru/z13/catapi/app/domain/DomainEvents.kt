@@ -4,7 +4,7 @@ import io.reactivex.Observable
 
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 interface DomainEvents {
     fun subscribeOnAppEvent(): Observable<AppEvent>

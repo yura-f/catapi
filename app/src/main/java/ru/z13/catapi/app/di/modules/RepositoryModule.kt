@@ -6,7 +6,7 @@ import ru.z13.catapi.app.repositories.CatRepository
 import ru.z13.catapi.app.repositories.CatRepositoryImpl
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Module
 abstract class RepositoryModule {

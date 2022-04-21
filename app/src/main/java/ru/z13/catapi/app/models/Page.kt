@@ -3,7 +3,7 @@ package ru.z13.catapi.app.models
 import java.util.concurrent.atomic.AtomicInteger
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class Page(var limit: Int = 100) {
 

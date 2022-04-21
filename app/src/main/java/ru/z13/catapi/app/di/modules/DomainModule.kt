@@ -7,7 +7,7 @@ import ru.z13.catapi.app.domain.DomainEvents
 import javax.inject.Singleton
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Module
 class DomainModule {

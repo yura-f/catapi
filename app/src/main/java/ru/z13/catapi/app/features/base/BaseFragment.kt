@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import moxy.MvpAppCompatFragment
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 abstract class BaseFragment: MvpAppCompatFragment() {
     abstract val layoutRes: Int

@@ -7,7 +7,7 @@ import ru.z13.catapi.app.models.CatData
 import ru.z13.catapi.app.network.dto.Cat
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 
 fun List<Cat>.toEntity() = map { it.toEntity() }

@@ -12,7 +12,7 @@ import ru.z13.catapi.app.utils.diff.YFastAdapterDiffUtil
 import javax.inject.Inject
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class FavoritesPresenter @Inject constructor(private val schedulersFacade: SchedulersFacade,
                                              private val interactor: CatsInteractor,

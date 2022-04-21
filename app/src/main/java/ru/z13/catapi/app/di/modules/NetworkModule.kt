@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit
 import javax.inject.Singleton
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 @Module
 class NetworkModule {

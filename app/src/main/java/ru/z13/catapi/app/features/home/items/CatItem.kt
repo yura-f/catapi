@@ -18,7 +18,7 @@ import ru.z13.catapi.app.R
 import ru.z13.catapi.app.models.CatData
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 open class CatItem: AbstractItem<CatItem.ViewHolder>() {
 

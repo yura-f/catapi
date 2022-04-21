@@ -11,7 +11,7 @@ import ru.z13.catapi.app.features.base.BaseFragment
 import ru.z13.catapi.app.features.main.adapters.MainStateAdapter
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 class MainFragment: BaseFragment() {
     override val layoutRes = R.layout.fragment_main

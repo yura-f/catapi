@@ -9,7 +9,7 @@ import ru.terrakok.cicerone.Router
 import javax.inject.Inject
 
 /**
- * @author Yura Fedorchenko (z-13.github.io)
+ * @author Yura F (yura-f.github.io)
  */
 abstract class BasePresenter<View: MvpView> : MvpPresenter<View>() {
     private var compositeSubscription: CompositeDisposable = CompositeDisposable()
